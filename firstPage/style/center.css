@@ -1,0 +1,65 @@
+.username,.password{  
+  border: none;
+  width: 700px;
+  font-size: 50px;
+  cursor:pointer;
+  
+}
+
+
+.UNF,.PWF{
+  height: 110x;
+width: 500px;
+font-size: 40px;
+padding-left: 40px;
+color: rgb(24, 65, 40);
+border-radius: 30px;
+margin-bottom:20px;
+margin-left: 100px;
+border: 3px solid  rgb(24, 65, 40);;
+
+
+}
+.logo{
+  width:600px;
+  margin-left: 170px;
+  margin-bottom: -15px;
+  margin-top: 5px;
+}
+
+.Remember{
+ transform: scale(2.2);
+ margin-right: 7px;
+ margin-left: 130px;
+ color: rgb(24, 65, 40);
+ 
+ 
+ 
+}
+.login{
+  display: block;
+  margin-top:120px;
+  margin-left:90px;
+  width: 800px;
+  height:120px;
+  font-size:50px;
+  border-radius: 30px; 
+  background-color: rgb(12 50 115);
+  color: white;
+  cursor:pointer;
+}
+.signup{
+  font-size: 40px;
+  margin-left:270px;
+ 
+}
+.contact{
+  font-size:30px;
+  margin-left:360px;
+  margin-top:0 ;
+  color:rgb(141, 141, 141);
+  text-decoration: underline;
+} 
+.center{
+  margin-top: 120px;
+}
